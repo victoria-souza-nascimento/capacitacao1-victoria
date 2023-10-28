@@ -1,0 +1,1 @@
+Esse comando é util para fornecer sobre a ramificação que se esta trabalhando no momento. Ele esclarece quais arquivos foram alterados e compara com a ramificação principal.
