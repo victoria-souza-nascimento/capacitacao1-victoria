@@ -1,0 +1,1 @@
+Esse comando é similar ao comando "commit", ele é utilizado para adicionar arquivos para subir para o repositório.
