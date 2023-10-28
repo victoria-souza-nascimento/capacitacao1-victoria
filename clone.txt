@@ -1,0 +1,1 @@
+Serve para clonar um projeto e iniciar em cima dele
